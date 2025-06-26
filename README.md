@@ -16,7 +16,7 @@
 
 ## 🎯 Overview
 
-This system automates the extraction of structured information from unstructured reports using **LlamaExtract**. Built for AI consultancy reports, it transforms manual document analysis into automated business intelligence. The code can be easily modified for other documents. 
+This code teaches how to automate the extraction of structured information from unstructured reports using **LlamaExtract**. As a sample data and use-case, this code uses example data of AI consultancy reports. The code can be easily modified for other documents. 
 
 
 ## ✨ Features
