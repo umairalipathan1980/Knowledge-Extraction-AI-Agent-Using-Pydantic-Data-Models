@@ -24,10 +24,10 @@ This code teaches how to automate the extraction of structured information from 
 - **🧠 AI-Powered Extraction**: Uses LlamaExtract for intelligent document processing
 - **📊 Structured Output**: Converts unstructured reports to structured Excel data
 - **🎯 Schema-Based**: Pydantic models ensure data consistency and validation
-- **📈 Analytics Ready**: Generates visualizations and business intelligence reports
+- **📈 Analytics Ready**: Generates structured documents ready for analysis
 - **🔄 Batch Processing**: Handles multiple documents simultaneously
 - **🛡️ Error Handling**: Robust fallback mechanisms for data quality
-- **🌍 Multi-Field Support**: Extracts 15+ different data fields per document
+- **🌍 Multi-Field Support**: Extracts different data fields per document
 
 ## 🏗️ System Architecture
 
