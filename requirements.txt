@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+streamlit
+python-docx
+pydantic
+openpyxl
+llama-cloud-services
