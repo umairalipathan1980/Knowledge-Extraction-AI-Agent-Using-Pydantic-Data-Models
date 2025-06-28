@@ -40,6 +40,12 @@ This code teaches how to automate the extraction of structured information from 
 
 - Python 3.8 or higher
 - LlamaCloud API key
+Get the LlamaCloud API key from https://cloud.llamaindex.ai/. If you are interested in using LlamaCloud services in the EU, you can adjust your base URL to EU_BASE_URL.
+
+```bash
+llama_extract = LlamaExtract(api_key=LLAMA_CLOUD_API_KEY, base_url=EU_BASE_URL) 
+
+```
 
 ### Step 1: Clone the Repository
 
@@ -77,7 +83,7 @@ pip install -r requirements.txt
 
 ```toml
 [secrets]
-LLAMA_CLOUD_API_KEY_EU = "your-api-key-here"
+LLAMA_CLOUD_API_KEY = "your-api-key-here"
 ```
 
 ### 2. Directory Structure

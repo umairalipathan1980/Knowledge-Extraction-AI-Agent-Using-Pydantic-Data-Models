@@ -16,7 +16,7 @@ from llama_cloud_services import LlamaExtract, EU_BASE_URL
 LLAMA_CLOUD_API_KEY = st.secrets["LLAMA_CLOUD_API_KEY_EU"]
 
 #### Set up the LlamaExtract client
-llama_extract = LlamaExtract(api_key=LLAMA_CLOUD_API_KEY, base_url=EU_BASE_URL) #Set base_url to use LlamaCloud services in the EU
+llama_extract = LlamaExtract(api_key=LLAMA_CLOUD_API_KEY, base_url=EU_BASE_URL) 
 
 
 # Import models
