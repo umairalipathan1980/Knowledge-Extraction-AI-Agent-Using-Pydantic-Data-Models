@@ -102,7 +102,7 @@ python main.py
 
 ### Processing Pipeline
 
-1. **Document Input**: Place `.docx` files in the `input/` directory
+1. **Document Input**: Place file(s) in the `input/` directory
 2. **Automated Processing**: Run the extraction script
 3. **Structured Output**: Find results in `output/company_analysis_llama_extract.xlsx`
 

@@ -168,8 +168,8 @@ def clean_extracted_data(extracted_data, fallback_company_name):
 
 # Function to process all documents in a folder
 def process_documents(folder_path):
-    # Get all .docx files in the folder
-    docx_files = glob.glob(os.path.join(folder_path, '*.docx'))
+    # Get all files in the folder
+    docx_files = glob.glob(os.path.join(folder_path, '*.docx')) #replace (or add) with the file extension(s) of your choice
     total_files = len(docx_files)
     
     print(f"Found {total_files} documents to process")
