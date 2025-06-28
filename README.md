@@ -31,19 +31,8 @@ This code teaches how to automate the extraction of structured information from 
 
 ## 🏗️ System Architecture
 
-```
-┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
-│   Input Docs    │───▶│  LlamaExtract    │───▶│  Structured     │
-│   (.docx)       │    │  Processing      │    │  Output         │
-└─────────────────┘    └──────────────────┘    └─────────────────┘
-                              │
-                    ┌─────────┼─────────┐
-                    │         │         │
-              ┌───────────┐ ┌─────────┐ ┌───────────┐
-              │  Schema   │ │ Data    │ │ Business  │
-              │  Models   │ │ Cleaning│ │ Analytics │
-              └───────────┘ └─────────┘ └───────────┘
-```
+![System Architecture](images/system-architecture.png)
+
 
 ## 🚀 Installation
 
@@ -51,7 +40,6 @@ This code teaches how to automate the extraction of structured information from 
 
 - Python 3.8 or higher
 - LlamaCloud API key
-- Streamlit (for web interface)
 
 ### Step 1: Clone the Repository
 
