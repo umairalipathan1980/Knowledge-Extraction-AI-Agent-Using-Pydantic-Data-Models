@@ -244,7 +244,7 @@ def save_to_excel(results, output_file):
 # Main function
 def main():
     print("=" * 80)
-    print("AI CONSULTANCY DOCUMENT ANALYSIS - LLAMAEXTRACT VERSION")
+    print("AI CONSULTANCY DOCUMENT ANALYSIS")
     print("=" * 80)
     
     import os
