@@ -2,18 +2,6 @@
 
 > **Transform unstructured documents into structured business intelligence using LlamaExtract**
 
-
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [System Architecture](#system-architecture)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [License](#license)
-
 ## 🎯 Overview
 
 This code teaches how to automate the extraction of structured information from unstructured reports using **LlamaExtract**. As a sample data and use-case, this code uses example data of AI consultancy reports. The code can be easily modified for other documents. 
@@ -157,7 +145,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Author**: Umair Ali Khan
 **Email**: umairali.khan@haaga-helia.fi 
-**Project Link**: [https://github.com/your-username/ai-document-extraction](https://github.com/your-username/ai-document-extraction)
+**Personal website**: https://umairalipathan1980.github.io/resume/#
 
 ---
 
