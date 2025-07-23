@@ -18,6 +18,7 @@
 
 This code teaches how to automate the extraction of structured information from unstructured reports using **LlamaExtract**. As a sample data and use-case, this code uses example data of AI consultancy reports. The code can be easily modified for other documents. 
 
+The details of the development of this application are discussed in the article [Creating a Knowledge Extraction AI Agent](https://medium.com/data-science-collective/creating-a-knowledge-extraction-ai-agent-697e94f44afb)
 
 ## ✨ Features
 
